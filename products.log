@@ -1,0 +1,6 @@
+INFO	2021-08-05 15:26:42,859	0	ProductApp	[main]	Welcome, sudha you logged in at:Thu Aug 05 15:26:42 IST 2021
+INFO	2021-08-05 15:26:45,424	2565	ProductApp	[main]	Startin adding a product
+INFO	2021-08-05 15:26:59,183	16324	ProductDAOImpl	[main]	Adding product with the name : cap
+INFO	2021-08-05 15:26:59,187	16328	ProductDAOImpl	[main]	Successfully product with cap is added
+INFO	2021-08-05 15:26:59,187	16328	ProductApp	[main]	#Product with product name : cap , saved successfully
+INFO	2021-08-05 15:31:54,238	0	ProductApp	[main]	Welcome, sudha you logged in at:Thu Aug 05 15:31:54 IST 2021
